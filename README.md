@@ -1,5 +1,20 @@
 # PAPERTRAIL
 
+### Every thought leaves a mark.
+
+A premium personal writing app inspired by the timeless experience of vintage typewriters.
+
+## 📥 Download for Android
+
+[**⬇️ Download PAPERTRAIL v1.0.0 (APK)**](https://github.com/SANDEEP23-git/papertrail/releases/download/v1.0.0/papertrail.apk)
+
+- Version: 1.0.0
+- Platform: Android
+- APK Size: 69.18 MB
+
+---
+# PAPERTRAIL
+
 **Every thought leaves a mark.**
 
 PAPERTRAIL is an Android-first, offline-first writing app with a premium,
