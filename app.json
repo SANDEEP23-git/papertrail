@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "PAPERTRAIL",
+    "slug": "papertrail",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#100E0D",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.papertrail.app",
+      "versionCode": 1,
+      "softwareKeyboardLayoutMode": "resize",
+      "allowBackup": false,
+      "permissions": [
+        "android.permission.VIBRATE"
+      ],
+      "adaptiveIcon": {
+        "backgroundColor": "#100E0D"
+      }
+    },
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#100E0D",
+      "translucent": false
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-local-authentication",
+      "./plugins/withRenameReleaseApk"
+    ],
+    "scheme": "papertrail"
+  }
+}
